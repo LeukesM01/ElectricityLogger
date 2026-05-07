@@ -1,1 +1,1 @@
-# ElectrcityLogger
+# ElectricityLogger
